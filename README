@@ -1,1 +1,6 @@
+https://github.com/evocellnet/ksea
+https://github.com/omarwagih/rmotifx
 
+install.packages('devtools')
+require(devtools)
+install_github('omarwagih/rmotifx')
